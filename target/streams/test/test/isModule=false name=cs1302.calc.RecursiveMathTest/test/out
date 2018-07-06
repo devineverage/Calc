@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m[34mTest run started[0m[0m
+[0m[[0minfo[0m] [0mTest cs1302.calc.[33mRecursiveMathTest[0m.[36mtestInc[0m started[0m
+[0m[[0minfo[0m] [0mTest cs1302.calc.[33mRecursiveMathTest[0m.[36mtestDec[0m started[0m
+[0m[[0minfo[0m] [0mTest cs1302.calc.[33mRecursiveMathTest[0m.[36mtestAdd[0m started[0m
+[0m[[0minfo[0m] [0mTest cs1302.calc.[33mRecursiveMathTest[0m.[36mtestSub[0m started[0m
+[0m[[0minfo[0m] [0mTest cs1302.calc.[33mRecursiveMathTest[0m.[36mtestMul[0m started[0m
+[0m[[0minfo[0m] [0mTest cs1302.calc.[33mRecursiveMathTest[0m.[36mtestDivEx[0m started[0m
+[0m[[0minfo[0m] [0mTest cs1302.calc.[33mRecursiveMathTest[0m.[36mtestDiv[0m started[0m
+[0m[[0minfo[0m] [0mTest cs1302.calc.[33mRecursiveMathTest[0m.[36mtestLshift[0m started[0m
+[0m[[0minfo[0m] [0mTest cs1302.calc.[33mRecursiveMathTest[0m.[36mtestRshift[0m started[0m
+[0m[[0minfo[0m] [0mTest cs1302.calc.[33mRecursiveMathTest[0m.[36mtestFac[0m started[0m
+[0m[[0minfo[0m] [0mTest cs1302.calc.[33mRecursiveMathTest[0m.[36mtestPow[0m started[0m
+[0m[[0minfo[0m] [0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 11 total, 0.029s[0m[0m

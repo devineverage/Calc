@@ -1,0 +1,889 @@
+Everage-Tomlonson-p3:
+total 1240
+-rw-r--r--. 1 ugrad     383 Nov 11 18:47 build.sbt
+-rw-r--r--. 1 ugrad    1514 Nov 11 18:47 MOCKUP.md
+drwxr-xr-x. 3 ugrad    4096 Nov 15 22:27 project
+-rw-r--r--. 1 ugrad   18640 Nov 20 22:08 README.md
+-rw-r--r--. 1 ugrad       0 Nov 20 22:10 rec20808
+-rwxr-xr-x. 1 ugrad      51 Nov 11 18:47 sbt
+-rw-r--r--. 1 ugrad     118 Nov 11 18:47 sbt.bat
+-rw-r--r--. 1 ugrad 1216768 Nov 11 18:47 sbt-launch.jar
+drwxr-xr-x. 4 ugrad    4096 Nov 11 18:47 src
+drwxr-xr-x. 6 ugrad    4096 Nov 20 20:20 target
+
+Everage-Tomlonson-p3/project:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 15 22:27 target
+
+Everage-Tomlonson-p3/project/target:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 15 22:27 config-classes
+
+Everage-Tomlonson-p3/project/target/config-classes:
+total 120
+-rw-r--r--. 1 ugrad  904 Nov 15 22:27 $0e232f52aa12778ccb46$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov 15 22:27 $0e232f52aa12778ccb46.cache
+-rw-r--r--. 1 ugrad  725 Nov 15 22:27 $0e232f52aa12778ccb46.class
+-rw-r--r--. 1 ugrad 1313 Nov 15 22:27 $0e232f52aa12778ccb46$.class
+-rw-r--r--. 1 ugrad  945 Nov 15 22:27 $57dcb47a2b3bd5e1fdec$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov 15 22:27 $57dcb47a2b3bd5e1fdec.cache
+-rw-r--r--. 1 ugrad  403 Nov 15 22:27 $57dcb47a2b3bd5e1fdec.class
+-rw-r--r--. 1 ugrad 1325 Nov 15 22:27 $57dcb47a2b3bd5e1fdec$.class
+-rw-r--r--. 1 ugrad   22 Nov 15 22:27 $873930aecf96471b264a.cache
+-rw-r--r--. 1 ugrad  326 Nov 15 22:27 $873930aecf96471b264a.class
+-rw-r--r--. 1 ugrad 2205 Nov 15 22:27 $873930aecf96471b264a$.class
+-rw-r--r--. 1 ugrad  945 Nov 15 22:27 $934e3ad181c97a6bf2e9$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov 15 22:27 $934e3ad181c97a6bf2e9.cache
+-rw-r--r--. 1 ugrad  403 Nov 15 22:27 $934e3ad181c97a6bf2e9.class
+-rw-r--r--. 1 ugrad 1489 Nov 15 22:27 $934e3ad181c97a6bf2e9$.class
+-rw-r--r--. 1 ugrad 1389 Nov 15 22:27 $aa1004544c16c2b53783$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov 15 22:27 $aa1004544c16c2b53783.cache
+-rw-r--r--. 1 ugrad  403 Nov 15 22:27 $aa1004544c16c2b53783.class
+-rw-r--r--. 1 ugrad 1520 Nov 15 22:27 $aa1004544c16c2b53783$.class
+-rw-r--r--. 1 ugrad 1377 Nov 15 22:27 $ba3b7eed1c97583687fe$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov 15 22:27 $ba3b7eed1c97583687fe.cache
+-rw-r--r--. 1 ugrad  403 Nov 15 22:27 $ba3b7eed1c97583687fe.class
+-rw-r--r--. 1 ugrad 1546 Nov 15 22:27 $ba3b7eed1c97583687fe$.class
+-rw-r--r--. 1 ugrad  890 Nov 15 22:27 $c4caea252d97b67da94b$$anonfun$$sbtdef$1.class
+-rw-r--r--. 1 ugrad   22 Nov 15 22:27 $c4caea252d97b67da94b.cache
+-rw-r--r--. 1 ugrad  403 Nov 15 22:27 $c4caea252d97b67da94b.class
+-rw-r--r--. 1 ugrad 1316 Nov 15 22:27 $c4caea252d97b67da94b$.class
+-rw-r--r--. 1 ugrad   22 Nov 15 22:27 $ea30de8a9d2cd946b0ac.cache
+-rw-r--r--. 1 ugrad  326 Nov 15 22:27 $ea30de8a9d2cd946b0ac.class
+-rw-r--r--. 1 ugrad 2208 Nov 15 22:27 $ea30de8a9d2cd946b0ac$.class
+
+Everage-Tomlonson-p3/src:
+total 8
+drwxr-xr-x. 4 ugrad 4096 Nov 11 18:47 main
+drwxr-xr-x. 3 ugrad 4096 Nov 11 18:47 test
+
+Everage-Tomlonson-p3/src/main:
+total 8
+drwxr-xr-x. 3 ugrad 4096 Nov 11 18:47 java
+drwxr-xr-x. 2 ugrad 4096 Nov 20 21:53 resources
+
+Everage-Tomlonson-p3/src/main/java:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 11 18:47 cs1302
+
+Everage-Tomlonson-p3/src/main/java/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 22:08 calc
+
+Everage-Tomlonson-p3/src/main/java/cs1302/calc:
+total 52
+-rw-r--r--. 1 ugrad  1294 Nov 16 20:39 BasicMath.java
+-rw-r--r--. 1 ugrad 12766 Nov 20 22:01 Controller.java
+-rw-r--r--. 1 ugrad   795 Nov 16 20:39 Driver.java
+-rw-r--r--. 1 ugrad  2656 Nov 20 22:09 IterativeMath.java
+-rw-r--r--. 1 ugrad   459 Nov 16 20:39 MalformedPostfixException.java
+-rw-r--r--. 1 ugrad  4124 Nov 16 20:39 Math.java
+-rw-r--r--. 1 ugrad  2896 Nov 20 22:08 RecursiveMath.java
+-rw-r--r--. 1 ugrad  7561 Nov 20 21:55 ReversePolishNotation.java
+
+Everage-Tomlonson-p3/src/main/resources:
+total 24
+-rw-r--r--. 1 ugrad   536 Nov 18 20:31 calc - backup.fxml
+-rw-r--r--. 1 ugrad   136 Nov 11 18:47 calc.css
+-rw-r--r--. 1 ugrad 13096 Nov 20 21:53 calc.fxml
+
+Everage-Tomlonson-p3/src/test:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 11 18:47 java
+
+Everage-Tomlonson-p3/src/test/java:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 11 18:47 cs1302
+
+Everage-Tomlonson-p3/src/test/java/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 11 18:47 calc
+
+Everage-Tomlonson-p3/src/test/java/cs1302/calc:
+total 24
+-rw-r--r--. 1 ugrad  373 Nov 11 18:47 DriverTest.java
+-rw-r--r--. 1 ugrad  198 Nov 11 18:47 IterativeMathTest.java
+-rw-r--r--. 1 ugrad 4963 Nov 11 18:47 MathTest.java
+-rw-r--r--. 1 ugrad  198 Nov 11 18:47 RecursiveMathTest.java
+-rw-r--r--. 1 ugrad 2394 Nov 11 18:47 ReversePolishNotationTest.java
+
+Everage-Tomlonson-p3/target:
+total 16
+drwxr-xr-x. 4 ugrad 4096 Nov 18 20:36 resolution-cache
+drwxr-xr-x. 5 ugrad 4096 Nov 20 22:02 scala-2.10
+drwxr-xr-x. 6 ugrad 4096 Nov 20 20:20 streams
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 test-reports
+
+Everage-Tomlonson-p3/target/resolution-cache:
+total 8
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 cs1302-calculator
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 reports
+
+Everage-Tomlonson-p3/target/resolution-cache/cs1302-calculator:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 cs1302-calculator_2.10
+
+Everage-Tomlonson-p3/target/resolution-cache/cs1302-calculator/cs1302-calculator_2.10:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 1.0
+
+Everage-Tomlonson-p3/target/resolution-cache/cs1302-calculator/cs1302-calculator_2.10/1.0:
+total 8
+-rw-r--r--. 1 ugrad  642 Nov 18 20:36 resolved.xml.properties
+-rw-r--r--. 1 ugrad 2051 Nov 18 20:36 resolved.xml.xml
+
+Everage-Tomlonson-p3/target/resolution-cache/reports:
+total 96
+-rw-r--r--. 1 ugrad   459 Nov 18 20:36 cs1302-calculator-cs1302-calculator_2.10-compile-internal.xml
+-rw-r--r--. 1 ugrad   450 Nov 18 20:36 cs1302-calculator-cs1302-calculator_2.10-compile.xml
+-rw-r--r--. 1 ugrad   447 Nov 18 20:36 cs1302-calculator-cs1302-calculator_2.10-docs.xml
+-rw-r--r--. 1 ugrad   451 Nov 18 20:36 cs1302-calculator-cs1302-calculator_2.10-optional.xml
+-rw-r--r--. 1 ugrad   449 Nov 18 20:36 cs1302-calculator-cs1302-calculator_2.10-plugin.xml
+-rw-r--r--. 1 ugrad   446 Nov 18 20:36 cs1302-calculator-cs1302-calculator_2.10-pom.xml
+-rw-r--r--. 1 ugrad   451 Nov 18 20:36 cs1302-calculator-cs1302-calculator_2.10-provided.xml
+-rw-r--r--. 1 ugrad   459 Nov 18 20:36 cs1302-calculator-cs1302-calculator_2.10-runtime-internal.xml
+-rw-r--r--. 1 ugrad   450 Nov 18 20:36 cs1302-calculator-cs1302-calculator_2.10-runtime.xml
+-rw-r--r--. 1 ugrad  7608 Nov 18 20:36 cs1302-calculator-cs1302-calculator_2.10-scala-tool.xml
+-rw-r--r--. 1 ugrad   450 Nov 18 20:36 cs1302-calculator-cs1302-calculator_2.10-sources.xml
+-rw-r--r--. 1 ugrad  4392 Nov 18 20:36 cs1302-calculator-cs1302-calculator_2.10-test-internal.xml
+-rw-r--r--. 1 ugrad  4348 Nov 18 20:36 cs1302-calculator-cs1302-calculator_2.10-test.xml
+-rw-r--r--. 1 ugrad  4371 Nov 18 20:36 ivy-report.css
+-rw-r--r--. 1 ugrad 20993 Nov 18 20:36 ivy-report.xsl
+
+Everage-Tomlonson-p3/target/scala-2.10:
+total 12
+drwxr-xr-x. 3 ugrad 4096 Nov 20 22:02 api
+drwxr-xr-x. 3 ugrad 4096 Nov 20 22:02 classes
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 test-classes
+
+Everage-Tomlonson-p3/target/scala-2.10/api:
+total 96
+-rw-r--r--. 1 ugrad  1502 Nov 20 22:02 allclasses-frame.html
+-rw-r--r--. 1 ugrad  1342 Nov 20 22:02 allclasses-noframe.html
+-rw-r--r--. 1 ugrad  3530 Nov 20 22:02 constant-values.html
+drwxr-xr-x. 3 ugrad  4096 Nov 20 22:02 cs1302
+-rw-r--r--. 1 ugrad  4561 Nov 20 22:02 deprecated-list.html
+-rw-r--r--. 1 ugrad  7915 Nov 20 22:02 help-doc.html
+-rw-r--r--. 1 ugrad 23169 Nov 20 22:02 index-all.html
+-rw-r--r--. 1 ugrad  2722 Nov 20 22:02 index.html
+-rw-r--r--. 1 ugrad  5734 Nov 20 22:02 overview-tree.html
+-rw-r--r--. 1 ugrad    12 Nov 20 22:02 package-list
+-rw-r--r--. 1 ugrad   827 Nov 20 22:02 script.js
+-rw-r--r--. 1 ugrad  3947 Nov 20 22:02 serialized-form.html
+-rw-r--r--. 1 ugrad 12808 Nov 20 22:02 stylesheet.css
+
+Everage-Tomlonson-p3/target/scala-2.10/api/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 22:02 calc
+
+Everage-Tomlonson-p3/target/scala-2.10/api/cs1302/calc:
+total 156
+-rw-r--r--. 1 ugrad 20015 Nov 20 22:02 BasicMath.html
+-rw-r--r--. 1 ugrad  9154 Nov 20 22:02 Controller.html
+-rw-r--r--. 1 ugrad 11057 Nov 20 22:02 Driver.html
+-rw-r--r--. 1 ugrad 22639 Nov 20 22:02 IterativeMath.html
+-rw-r--r--. 1 ugrad  8488 Nov 20 22:02 MalformedPostfixException.html
+-rw-r--r--. 1 ugrad 18704 Nov 20 22:02 Math.html
+-rw-r--r--. 1 ugrad  1673 Nov 20 22:02 package-frame.html
+-rw-r--r--. 1 ugrad  7378 Nov 20 22:02 package-summary.html
+-rw-r--r--. 1 ugrad  5776 Nov 20 22:02 package-tree.html
+-rw-r--r--. 1 ugrad 24415 Nov 20 22:02 RecursiveMath.html
+-rw-r--r--. 1 ugrad 12000 Nov 20 22:02 ReversePolishNotation.html
+
+Everage-Tomlonson-p3/target/scala-2.10/classes:
+total 28
+-rw-r--r--. 1 ugrad   536 Nov 18 20:31 calc - backup.fxml
+-rw-r--r--. 1 ugrad   136 Nov 11 18:47 calc.css
+-rw-r--r--. 1 ugrad 13096 Nov 20 21:53 calc.fxml
+drwxr-xr-x. 3 ugrad  4096 Nov 18 20:36 cs1302
+
+Everage-Tomlonson-p3/target/scala-2.10/classes/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 22:02 calc
+
+Everage-Tomlonson-p3/target/scala-2.10/classes/cs1302/calc:
+total 36
+-rw-r--r--. 1 ugrad  817 Nov 18 20:36 BasicMath.class
+-rw-r--r--. 1 ugrad 7220 Nov 20 22:02 Controller.class
+-rw-r--r--. 1 ugrad 1221 Nov 18 20:36 Driver.class
+-rw-r--r--. 1 ugrad 1241 Nov 20 22:02 IterativeMath.class
+-rw-r--r--. 1 ugrad  539 Nov 18 20:36 MalformedPostfixException.class
+-rw-r--r--. 1 ugrad  676 Nov 18 20:36 Math.class
+-rw-r--r--. 1 ugrad 1414 Nov 20 22:02 RecursiveMath.class
+-rw-r--r--. 1 ugrad 3138 Nov 18 20:36 ReversePolishNotation.class
+
+Everage-Tomlonson-p3/target/scala-2.10/test-classes:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 cs1302
+
+Everage-Tomlonson-p3/target/scala-2.10/test-classes/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 calc
+
+Everage-Tomlonson-p3/target/scala-2.10/test-classes/cs1302/calc:
+total 24
+-rw-r--r--. 1 ugrad  524 Nov 20 20:20 DriverTest.class
+-rw-r--r--. 1 ugrad  317 Nov 20 20:20 IterativeMathTest.class
+-rw-r--r--. 1 ugrad 4505 Nov 20 20:20 MathTest.class
+-rw-r--r--. 1 ugrad  317 Nov 20 20:20 RecursiveMathTest.class
+-rw-r--r--. 1 ugrad 3058 Nov 20 20:20 ReversePolishNotationTest.class
+
+Everage-Tomlonson-p3/target/streams:
+total 16
+drwxr-xr-x. 15 ugrad 4096 Nov 20 21:54 compile
+drwxr-xr-x.  9 ugrad 4096 Nov 18 20:36 $global
+drwxr-xr-x. 10 ugrad 4096 Nov 18 20:36 runtime
+drwxr-xr-x. 17 ugrad 4096 Nov 20 20:20 test
+
+Everage-Tomlonson-p3/target/streams/compile:
+total 52
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 compile
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 copyResources
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 dependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 20 21:54 doc
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 exportedProducts
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 externalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 incCompileSetup
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 internalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 managedClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 run
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 unmanagedClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 unmanagedJars
+
+Everage-Tomlonson-p3/target/streams/compile/compile:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/compile/compile/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/compile/compile/$global/streams:
+total 8
+-rw-r--r--. 1 ugrad  480 Nov 20 22:02 export
+-rw-r--r--. 1 ugrad 2688 Nov 20 22:02 out
+
+Everage-Tomlonson-p3/target/streams/compile/copyResources:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/compile/copyResources/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/compile/copyResources/$global/streams:
+total 8
+-rw-r--r--. 1 ugrad 216 Nov 20 22:02 copy-resources
+-rw-r--r--. 1 ugrad 609 Nov 20 22:02 out
+
+Everage-Tomlonson-p3/target/streams/compile/dependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/compile/dependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/compile/dependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 20 22:02 export
+
+Everage-Tomlonson-p3/target/streams/compile/doc:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 21:54 $global
+
+Everage-Tomlonson-p3/target/streams/compile/doc/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 21:54 streams
+
+Everage-Tomlonson-p3/target/streams/compile/doc/$global/streams:
+total 12
+-rw-r--r--. 1 ugrad    0 Nov 20 21:54 export
+drwxr-xr-x. 2 ugrad 4096 Nov 20 21:55 java
+-rw-r--r--. 1 ugrad 4560 Nov 20 22:02 out
+
+Everage-Tomlonson-p3/target/streams/compile/doc/$global/streams/java:
+total 8
+-rw-r--r--. 1 ugrad  976 Nov 20 22:02 inputs
+-rw-r--r--. 1 ugrad 2284 Nov 20 21:55 output
+
+Everage-Tomlonson-p3/target/streams/compile/exportedProducts:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/compile/exportedProducts/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/compile/exportedProducts/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 68 Nov 20 22:02 export
+
+Everage-Tomlonson-p3/target/streams/compile/externalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/compile/externalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/compile/externalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 20 22:02 export
+
+Everage-Tomlonson-p3/target/streams/compile/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/compile/$global/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 discoveredMainClasses
+
+Everage-Tomlonson-p3/target/streams/compile/$global/$global/discoveredMainClasses:
+total 4
+-rw-r--r--. 1 ugrad 24 Nov 20 22:03 data
+
+Everage-Tomlonson-p3/target/streams/compile/incCompileSetup:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/compile/incCompileSetup/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/compile/incCompileSetup/$global/streams:
+total 80
+-rw-r--r--. 1 ugrad 81588 Nov 20 22:02 inc_compile_2.10
+
+Everage-Tomlonson-p3/target/streams/compile/internalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/compile/internalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/compile/internalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 20 22:02 export
+
+Everage-Tomlonson-p3/target/streams/compile/managedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/compile/managedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/compile/managedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 20 22:02 export
+
+Everage-Tomlonson-p3/target/streams/compile/run:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/compile/run/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/compile/run/$global/streams:
+total 8
+-rw-r--r--. 1 ugrad 8112 Nov 20 22:02 out
+
+Everage-Tomlonson-p3/target/streams/compile/unmanagedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/compile/unmanagedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/compile/unmanagedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 20 22:02 export
+
+Everage-Tomlonson-p3/target/streams/compile/unmanagedJars:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/compile/unmanagedJars/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/compile/unmanagedJars/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 20 22:02 export
+
+Everage-Tomlonson-p3/target/streams/$global:
+total 28
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 clean
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 dependencyPositions
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 ivyConfiguration
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 ivySbt
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 projectDescriptors
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 update
+
+Everage-Tomlonson-p3/target/streams/$global/clean:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/$global/clean/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/$global/clean/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Nov 18 20:36 out
+
+Everage-Tomlonson-p3/target/streams/$global/dependencyPositions:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/$global/dependencyPositions/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/$global/dependencyPositions/$global/streams:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 update_cache_2.10
+
+Everage-Tomlonson-p3/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10:
+total 8
+-rw-r--r--. 1 ugrad  74 Nov 18 20:36 input_dsp
+-rw-r--r--. 1 ugrad 144 Nov 20 22:02 output_dsp
+
+Everage-Tomlonson-p3/target/streams/$global/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/$global/$global/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/$global/$global/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Nov 18 20:36 out
+
+Everage-Tomlonson-p3/target/streams/$global/ivyConfiguration:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/$global/ivyConfiguration/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/$global/ivyConfiguration/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 172 Nov 18 20:36 out
+
+Everage-Tomlonson-p3/target/streams/$global/ivySbt:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/$global/ivySbt/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/$global/ivySbt/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Nov 18 20:36 out
+
+Everage-Tomlonson-p3/target/streams/$global/projectDescriptors:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/$global/projectDescriptors/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/$global/projectDescriptors/$global/streams:
+total 0
+-rw-r--r--. 1 ugrad 0 Nov 18 20:36 out
+
+Everage-Tomlonson-p3/target/streams/$global/update:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/$global/update/$global:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/$global/update/$global/streams:
+total 28
+-rw-r--r--. 1 ugrad 21416 Nov 18 20:36 out
+drwxr-xr-x. 2 ugrad  4096 Nov 18 20:36 update_cache_2.10
+
+Everage-Tomlonson-p3/target/streams/$global/update/$global/streams/update_cache_2.10:
+total 20
+-rw-r--r--. 1 ugrad  1585 Nov 18 20:36 inputs
+-rw-r--r--. 1 ugrad 13676 Nov 20 22:02 output
+
+Everage-Tomlonson-p3/target/streams/runtime:
+total 32
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 dependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 exportedProducts
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 externalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 fullClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 internalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 managedClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 unmanagedClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 unmanagedJars
+
+Everage-Tomlonson-p3/target/streams/runtime/dependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/runtime/dependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/runtime/dependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 68 Nov 20 22:02 export
+
+Everage-Tomlonson-p3/target/streams/runtime/exportedProducts:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/runtime/exportedProducts/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/runtime/exportedProducts/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 68 Nov 20 22:02 export
+
+Everage-Tomlonson-p3/target/streams/runtime/externalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/runtime/externalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/runtime/externalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 20 22:02 export
+
+Everage-Tomlonson-p3/target/streams/runtime/fullClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/runtime/fullClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/runtime/fullClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 68 Nov 20 22:02 export
+
+Everage-Tomlonson-p3/target/streams/runtime/internalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/runtime/internalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/runtime/internalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 68 Nov 20 22:02 export
+
+Everage-Tomlonson-p3/target/streams/runtime/managedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/runtime/managedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/runtime/managedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 20 22:02 export
+
+Everage-Tomlonson-p3/target/streams/runtime/unmanagedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/runtime/unmanagedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/runtime/unmanagedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 20 22:02 export
+
+Everage-Tomlonson-p3/target/streams/runtime/unmanagedJars:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 18 20:36 $global
+
+Everage-Tomlonson-p3/target/streams/runtime/unmanagedJars/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 18 20:36 streams
+
+Everage-Tomlonson-p3/target/streams/runtime/unmanagedJars/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 20 22:02 export
+
+Everage-Tomlonson-p3/target/streams/test:
+total 60
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 compile
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 copyResources
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 definedTests
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 dependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 exportedProducts
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 externalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 fullClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 $global
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 incCompileSetup
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 internalDependencyClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 loadedTestFrameworks
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 managedClasspath
+drwxr-xr-x. 8 ugrad 4096 Nov 20 20:20 test
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 unmanagedClasspath
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 unmanagedJars
+
+Everage-Tomlonson-p3/target/streams/test/compile:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 $global
+
+Everage-Tomlonson-p3/target/streams/test/compile/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 streams
+
+Everage-Tomlonson-p3/target/streams/test/compile/$global/streams:
+total 8
+-rw-r--r--. 1 ugrad 1004 Nov 20 20:20 export
+-rw-r--r--. 1 ugrad  773 Nov 20 20:39 out
+
+Everage-Tomlonson-p3/target/streams/test/copyResources:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 $global
+
+Everage-Tomlonson-p3/target/streams/test/copyResources/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 streams
+
+Everage-Tomlonson-p3/target/streams/test/copyResources/$global/streams:
+total 8
+-rw-r--r--. 1 ugrad 23 Nov 20 20:39 copy-resources
+-rw-r--r--. 1 ugrad 83 Nov 20 20:39 out
+
+Everage-Tomlonson-p3/target/streams/test/definedTests:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 $global
+
+Everage-Tomlonson-p3/target/streams/test/definedTests/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 streams
+
+Everage-Tomlonson-p3/target/streams/test/definedTests/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 253 Nov 20 20:39 out
+
+Everage-Tomlonson-p3/target/streams/test/dependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 $global
+
+Everage-Tomlonson-p3/target/streams/test/dependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 streams
+
+Everage-Tomlonson-p3/target/streams/test/dependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 325 Nov 20 20:39 export
+
+Everage-Tomlonson-p3/target/streams/test/exportedProducts:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 $global
+
+Everage-Tomlonson-p3/target/streams/test/exportedProducts/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 streams
+
+Everage-Tomlonson-p3/target/streams/test/exportedProducts/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 73 Nov 20 20:39 export
+
+Everage-Tomlonson-p3/target/streams/test/externalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 $global
+
+Everage-Tomlonson-p3/target/streams/test/externalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 streams
+
+Everage-Tomlonson-p3/target/streams/test/externalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 257 Nov 20 20:39 export
+
+Everage-Tomlonson-p3/target/streams/test/fullClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 $global
+
+Everage-Tomlonson-p3/target/streams/test/fullClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 streams
+
+Everage-Tomlonson-p3/target/streams/test/fullClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 398 Nov 20 20:39 export
+
+Everage-Tomlonson-p3/target/streams/test/$global:
+total 4
+drwxr-xr-x. 4 ugrad 4096 Nov 20 20:20 $global
+
+Everage-Tomlonson-p3/target/streams/test/$global/$global:
+total 8
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 definedTestNames
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 discoveredMainClasses
+
+Everage-Tomlonson-p3/target/streams/test/$global/$global/definedTestNames:
+total 4
+-rw-r--r--. 1 ugrad 151 Nov 20 20:39 data
+
+Everage-Tomlonson-p3/target/streams/test/$global/$global/discoveredMainClasses:
+total 4
+-rw-r--r--. 1 ugrad 4 Nov 20 20:39 data
+
+Everage-Tomlonson-p3/target/streams/test/incCompileSetup:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 $global
+
+Everage-Tomlonson-p3/target/streams/test/incCompileSetup/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 streams
+
+Everage-Tomlonson-p3/target/streams/test/incCompileSetup/$global/streams:
+total 56
+-rw-r--r--. 1 ugrad 53338 Nov 20 20:20 inc_compile_2.10
+
+Everage-Tomlonson-p3/target/streams/test/internalDependencyClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 $global
+
+Everage-Tomlonson-p3/target/streams/test/internalDependencyClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 streams
+
+Everage-Tomlonson-p3/target/streams/test/internalDependencyClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 68 Nov 20 20:39 export
+
+Everage-Tomlonson-p3/target/streams/test/loadedTestFrameworks:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 $global
+
+Everage-Tomlonson-p3/target/streams/test/loadedTestFrameworks/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 streams
+
+Everage-Tomlonson-p3/target/streams/test/loadedTestFrameworks/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 611 Nov 20 20:39 out
+
+Everage-Tomlonson-p3/target/streams/test/managedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 $global
+
+Everage-Tomlonson-p3/target/streams/test/managedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 streams
+
+Everage-Tomlonson-p3/target/streams/test/managedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 257 Nov 20 20:39 export
+
+Everage-Tomlonson-p3/target/streams/test/test:
+total 24
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 $global
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 isModule=false name=cs1302.calc.DriverTest
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 isModule=false name=cs1302.calc.IterativeMathTest
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 isModule=false name=cs1302.calc.MathTest
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 isModule=false name=cs1302.calc.RecursiveMathTest
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 isModule=false name=cs1302.calc.ReversePolishNotationTest
+
+Everage-Tomlonson-p3/target/streams/test/test/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 streams
+
+Everage-Tomlonson-p3/target/streams/test/test/$global/streams:
+total 8
+-rw-r--r--. 1 ugrad 1162 Nov 20 20:39 out
+-rw-r--r--. 1 ugrad  260 Nov 20 20:39 succeeded_tests
+
+Everage-Tomlonson-p3/target/streams/test/test/isModule=false name=cs1302.calc.DriverTest:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 test
+
+Everage-Tomlonson-p3/target/streams/test/test/isModule=false name=cs1302.calc.DriverTest/test:
+total 4
+-rw-r--r--. 1 ugrad 271 Nov 20 20:39 out
+
+Everage-Tomlonson-p3/target/streams/test/test/isModule=false name=cs1302.calc.IterativeMathTest:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 test
+
+Everage-Tomlonson-p3/target/streams/test/test/isModule=false name=cs1302.calc.IterativeMathTest/test:
+total 4
+-rw-r--r--. 1 ugrad 1246 Nov 20 20:39 out
+
+Everage-Tomlonson-p3/target/streams/test/test/isModule=false name=cs1302.calc.MathTest:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 test
+
+Everage-Tomlonson-p3/target/streams/test/test/isModule=false name=cs1302.calc.MathTest/test:
+total 4
+-rw-r--r--. 1 ugrad 1147 Nov 20 20:39 out
+
+Everage-Tomlonson-p3/target/streams/test/test/isModule=false name=cs1302.calc.RecursiveMathTest:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 test
+
+Everage-Tomlonson-p3/target/streams/test/test/isModule=false name=cs1302.calc.RecursiveMathTest/test:
+total 4
+-rw-r--r--. 1 ugrad 1246 Nov 20 20:39 out
+
+Everage-Tomlonson-p3/target/streams/test/test/isModule=false name=cs1302.calc.ReversePolishNotationTest:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 test
+
+Everage-Tomlonson-p3/target/streams/test/test/isModule=false name=cs1302.calc.ReversePolishNotationTest/test:
+total 4
+-rw-r--r--. 1 ugrad 405 Nov 20 20:39 out
+
+Everage-Tomlonson-p3/target/streams/test/unmanagedClasspath:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 $global
+
+Everage-Tomlonson-p3/target/streams/test/unmanagedClasspath/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 streams
+
+Everage-Tomlonson-p3/target/streams/test/unmanagedClasspath/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 20 20:39 export
+
+Everage-Tomlonson-p3/target/streams/test/unmanagedJars:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 20 20:20 $global
+
+Everage-Tomlonson-p3/target/streams/test/unmanagedJars/$global:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 20 20:20 streams
+
+Everage-Tomlonson-p3/target/streams/test/unmanagedJars/$global/streams:
+total 4
+-rw-r--r--. 1 ugrad 1 Nov 20 20:39 export
+
+Everage-Tomlonson-p3/target/test-reports:
+total 40
+-rw-r--r--. 1 ugrad 4135 Nov 20 20:39 cs1302.calc.DriverTest.xml
+-rw-r--r--. 1 ugrad 6057 Nov 20 20:39 cs1302.calc.IterativeMathTest.xml
+-rw-r--r--. 1 ugrad 5949 Nov 20 20:39 cs1302.calc.MathTest.xml
+-rw-r--r--. 1 ugrad 6057 Nov 20 20:39 cs1302.calc.RecursiveMathTest.xml
+-rw-r--r--. 1 ugrad 4378 Nov 20 20:39 cs1302.calc.ReversePolishNotationTest.xml
+/home/ugrads/everage/Everage-Tomlonson-p3:/home/work/cs1302a

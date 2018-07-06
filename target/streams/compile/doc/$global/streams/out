@@ -1,0 +1,39 @@
+[0m[[0minfo[0m] [0mMain Java API documentation to /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api...[0m
+[0m[[0mdebug[0m] [0mAttempting to call javadoc directly...[0m
+[0m[[0mdebug[0m] [0mcom.sun.tools.javadoc.Main not found with appropriate method signature; forking javadoc instead[0m
+[0m[[0mdebug[0m] [0mForking javadoc: javadoc @/tmp/sbt_1d57d58b/argfile[0m
+[0m[[0minfo[0m] [0mLoading source file /home/ugrads/everage/Everage-Tomlonson-p3/src/main/java/cs1302/calc/BasicMath.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /home/ugrads/everage/Everage-Tomlonson-p3/src/main/java/cs1302/calc/Controller.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /home/ugrads/everage/Everage-Tomlonson-p3/src/main/java/cs1302/calc/Driver.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /home/ugrads/everage/Everage-Tomlonson-p3/src/main/java/cs1302/calc/IterativeMath.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /home/ugrads/everage/Everage-Tomlonson-p3/src/main/java/cs1302/calc/MalformedPostfixException.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /home/ugrads/everage/Everage-Tomlonson-p3/src/main/java/cs1302/calc/Math.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /home/ugrads/everage/Everage-Tomlonson-p3/src/main/java/cs1302/calc/RecursiveMath.java...[0m
+[0m[[0minfo[0m] [0mLoading source file /home/ugrads/everage/Everage-Tomlonson-p3/src/main/java/cs1302/calc/ReversePolishNotation.java...[0m
+[0m[[0minfo[0m] [0mConstructing Javadoc information...[0m
+[0m[[0minfo[0m] [0mStandard Doclet version 1.8.0_51[0m
+[0m[[0minfo[0m] [0mBuilding tree for all the packages and classes...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/cs1302/calc/BasicMath.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/cs1302/calc/Controller.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/cs1302/calc/Driver.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/cs1302/calc/IterativeMath.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/cs1302/calc/MalformedPostfixException.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/cs1302/calc/Math.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/cs1302/calc/RecursiveMath.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/cs1302/calc/ReversePolishNotation.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/cs1302/calc/package-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/cs1302/calc/package-summary.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/cs1302/calc/package-tree.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/constant-values.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/serialized-form.html...[0m
+[0m[[0minfo[0m] [0mBuilding index for all the packages and classes...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/overview-tree.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/index-all.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/deprecated-list.html...[0m
+[0m[[0minfo[0m] [0mBuilding index for all classes...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/allclasses-frame.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/allclasses-noframe.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/index.html...[0m
+[0m[[0minfo[0m] [0mGenerating /home/ugrads/everage/Everage-Tomlonson-p3/target/scala-2.10/api/help-doc.html...[0m
+[0m[[0mdebug[0m] [0mjavadoc returned exit code: 0[0m
+[0m[[0minfo[0m] [0mMain Java API documentation successful.[0m

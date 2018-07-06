@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<TitledPane animated="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="525.0" text="Calculator" xmlns="http://javafx.com/javafx/8.0.60" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cs1302.calc.Controller">
+  <content>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="374.0" prefWidth="464.0">
+         <children>
+            <Pane layoutX="5.0" layoutY="1.0" prefHeight="97.0" prefWidth="462.0">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+               <children>
+                  <TextField id="result" fx:id="answerField" layoutX="-1.0" layoutY="33.0" prefHeight="60.0" prefWidth="460.0" promptText="Result" />
+                  <TextField id="operations" fx:id="displayField" layoutX="-1.0" layoutY="3.0" prefHeight="32.0" prefWidth="460.0" promptText="Operations" />
+               </children>
+            </Pane>
+            <Pane layoutX="6.0" layoutY="98.0" prefHeight="80.0" prefWidth="460.0">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+               <children>
+                  <Button fx:id="bit31" layoutX="12.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit30" layoutX="34.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit29" layoutX="56.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit28" layoutX="78.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit27" layoutX="100.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit26" layoutX="122.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit25" layoutX="144.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit24" layoutX="166.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit23" layoutX="282.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit22" layoutX="304.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit21" layoutX="326.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit20" layoutX="348.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit19" layoutX="370.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit18" layoutX="392.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit17" layoutX="414.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit16" layoutX="436.0" layoutY="-2.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit15" layoutX="12.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit14" layoutX="34.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit13" layoutX="56.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit12" layoutX="78.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit11" layoutX="100.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit10" layoutX="122.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit09" layoutX="144.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit08" layoutX="166.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit07" layoutX="282.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit06" layoutX="304.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit05" layoutX="326.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit04" layoutX="348.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit03" layoutX="370.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit02" layoutX="392.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit01" layoutX="414.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Button fx:id="bit00" layoutX="436.0" layoutY="40.0" mnemonicParsing="false" onAction="#handleBinaryButton" prefHeight="25.0" prefWidth="13.0" text="0" />
+                  <Label layoutX="17.0" layoutY="23.0" text="31">
+                     <font>
+                        <Font size="10.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="286.0" layoutY="23.0" text="23">
+                     <font>
+                        <Font size="10.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="17.0" layoutY="65.0" text="15">
+                     <font>
+                        <Font size="10.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="290.0" layoutY="65.0" text="7">
+                     <font>
+                        <Font size="10.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+            <GridPane layoutX="14.0" layoutY="178.0" prefHeight="188.0" prefWidth="351.0">
+              <columnConstraints>
+                <ColumnConstraints maxWidth="95.0" minWidth="10.0" prefWidth="70.0" />
+                <ColumnConstraints hgrow="ALWAYS" maxWidth="70.0" minWidth="10.0" prefWidth="70.0" />
+                  <ColumnConstraints hgrow="ALWAYS" maxWidth="70.0" minWidth="10.0" prefWidth="70.0" />
+                  <ColumnConstraints hgrow="ALWAYS" maxWidth="70.0" minWidth="10.0" prefWidth="70.0" />
+                  <ColumnConstraints hgrow="ALWAYS" maxWidth="70.0" minWidth="10.0" prefWidth="100.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Button id="backspace" fx:id="backspace" mnemonicParsing="false" onAction="#handleBackOperation" prefHeight="80.0" prefWidth="70.0" text="Backspace" />
+                  <Button id="clear" fx:id="clear" mnemonicParsing="false" onAction="#handleClearOperation" prefHeight="74.0" prefWidth="70.0" text="Clear" GridPane.columnIndex="1" />
+                  <Button id="7" fx:id="seven" mnemonicParsing="false" onAction="#handleDigitAction" prefHeight="50.0" prefWidth="70.0" text="7" GridPane.rowIndex="1" />
+                  <Button id="8" fx:id="eight" mnemonicParsing="false" onAction="#handleDigitAction" prefHeight="50.0" prefWidth="70.0" text="8" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                  <Button id="9" fx:id="nine" mnemonicParsing="false" onAction="#handleDigitAction" prefHeight="50.0" prefWidth="70.0" text="9" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+                  <Button id="4" fx:id="four" mnemonicParsing="false" onAction="#handleDigitAction" prefHeight="50.0" prefWidth="70.0" text="4" GridPane.rowIndex="2" />
+                  <Button id="5" fx:id="five" mnemonicParsing="false" onAction="#handleDigitAction" prefHeight="50.0" prefWidth="70.0" text="5" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                  <Button id="3" fx:id="three" mnemonicParsing="false" onAction="#handleDigitAction" prefHeight="50.0" prefWidth="70.0" text="3" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+                  <Button id="2" fx:id="two" mnemonicParsing="false" onAction="#handleDigitAction" prefHeight="50.0" prefWidth="70.0" text="2" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                  <Button id="1" fx:id="one" mnemonicParsing="false" onAction="#handleDigitAction" prefHeight="50.0" prefWidth="70.0" text="1" GridPane.rowIndex="3" />
+                  <Button id="6" fx:id="six" mnemonicParsing="false" onAction="#handleDigitAction" prefHeight="50.0" prefWidth="70.0" text="6" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+                  <Button id="0" fx:id="zero" mnemonicParsing="false" onAction="#handleDigitAction" prefHeight="50.0" prefWidth="70.0" text="0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                  <Button id="-" fx:id="sub" mnemonicParsing="false" onAction="#handleOperation" prefHeight="50.0" prefWidth="70.0" text="-" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+                  <Button id="*" fx:id="mult" mnemonicParsing="false" onAction="#handleOperation" prefHeight="50.0" prefWidth="70.0" text="*" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+                  <Button id="/" fx:id="div" mnemonicParsing="false" onAction="#handleOperation" prefHeight="50.0" prefWidth="70.0" text="/" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+                  <Button id="+" fx:id="add" mnemonicParsing="false" onAction="#handleOperation" prefHeight="50.0" prefWidth="70.0" text="+" GridPane.columnIndex="3" />
+                  <Button id="&lt;&lt;" mnemonicParsing="false" onAction="#handleOperation" prefHeight="50.0" prefWidth="70.0" text="&lt;&lt;" GridPane.columnIndex="4" GridPane.rowIndex="3" />
+                  <Button id="&gt;&gt;" mnemonicParsing="false" onAction="#handleOperation" prefHeight="50.0" prefWidth="70.0" text="&gt;&gt;" GridPane.columnIndex="4" GridPane.rowIndex="2" />
+                  <Button id="^" fx:id="exp" mnemonicParsing="false" onAction="#handleOperation" prefHeight="50.0" prefWidth="70.0" text="^" GridPane.columnIndex="4" GridPane.rowIndex="1" />
+                  <Button id="!" fx:id="fac" mnemonicParsing="false" onAction="#handleOperation" prefHeight="50.0" prefWidth="70.0" text="!" GridPane.columnIndex="4" />
+               </children>
+            </GridPane>
+            <Button id="=" fx:id="equals" layoutX="365.0" layoutY="178.0" mnemonicParsing="false" onAction="#handleEqualOperation" prefHeight="100.0" prefWidth="70.0" text="=" />
+            <Button id="switch" fx:id="recursion" layoutX="365.0" layoutY="278.0" mnemonicParsing="false" onAction="#handleUseRecursion" prefHeight="51.0" prefWidth="135.0" text="Use Recursive" />
+         </children></AnchorPane>
+  </content>
+</TitledPane>
+

@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[34mTest run started[0m[0m
+[0m[[0minfo[0m] [0mTest cs1302.calc.[33mReversePolishNotationTest[0m.[36mtestInfixToPostfix[0m started[0m
+[0m[[0minfo[0m] [0mTest cs1302.calc.[33mReversePolishNotationTest[0m.[36mtestEvaluate[0m started[0m
+[0m[[0minfo[0m] [0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 2 total, 0.022s[0m[0m
